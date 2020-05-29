@@ -25,6 +25,7 @@ The documentation for the React Material Kit is can be found [here](https://mate
 
 ## File Structure
 
+
 Within the download you'll find the following directories and files:
 
 ```
