@@ -73,7 +73,5 @@ react-dashboard
 
 - Licensed under MIT (https://github.com/robert-upwork/react-dashboard/blob/master/LICENSE.md)
 
-## Contact Us
 
-- Skype: mars_jndevs@outlook.com
 
